@@ -1,5 +1,4 @@
 # my custom shortcodes for hugo
-[DEMO](https://umtksa.github.io/example.html)
 
 
 
